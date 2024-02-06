@@ -8,7 +8,7 @@ Visualization Libraries: Curate and develop open-source visualization libraries 
 
 Interactive Dashboards: Explore the development of interactive dashboards that enable users to explore, filter, and interact with visualized data. Focus on providing intuitive user interfaces, dynamic data updates, and integration with backend data sources.
 
-Geospatial Visualization: Develop tools and libraries for geospatial data visualization, enabling users to represent and analyze data on maps. Support features such as heatmaps, choropleth maps, point clustering, and spatial analysis.
+Geospatial Visualization: Develop tools and libraries for geospatial data visualization, enabling users  representING and analyze data on maps. Support features such as heatmaps, choropleth maps, point clustering, and spatial analysis.
 
 Network Visualization: Investigate techniques for visualizing network data, such as social networks, transportation networks, or knowledge graphs. Build tools that offer meaningful representations of nodes, edges, and their relationships, along with interactive features for exploring the network structure.
 
