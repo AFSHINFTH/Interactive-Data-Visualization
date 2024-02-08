@@ -14,7 +14,7 @@ Network Visualization: Investigate techniques for visualizing network data, such
 
 Storytelling Visualizations: Explore the creation of visually compelling and interactive storytelling visualizations. Provide frameworks or templates that guide users in crafting narratives, presenting data-driven stories, and incorporating multimedia elements.
 
-Accessibility and Responsiveness: Emphasize accessibility and responsiveness in data visualization tools and libraries. Ensure compatibility with different screen sizes, support for assistive technologies, and adherence to best practices for inclusive design.
+
 
 Contribution Guidelines:
 
